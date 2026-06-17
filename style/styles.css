@@ -529,4 +529,5 @@ body {
     height: 40px;
     font-size: 20px;
   }
+  .info-card { flex-direction: column !important; }
 }
